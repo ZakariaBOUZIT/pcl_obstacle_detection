@@ -1,4 +1,4 @@
-Obstacle Detection using PCL and ROS
+PCL ROS package for Obstacle Detection 
 ==================
 
 How to use:
